@@ -1,129 +1,173 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto_fordarkbg.svg?sanitize=true#gh-dark-mode-only" alt="Ditto Logo dark" height="250">
-  <img src="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto.svg?sanitize=true#gh-light-mode-only" alt="Ditto Logo light" height="250">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto_fordarkbg.svg?sanitize=true#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto_fordarkbg.svg?sanitize=true#gh-dark-mode-only" alt="Ditto Logo dark" height="250" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto.svg?sanitize=true#gh-light-mode-only"><img src="https://raw.githubusercontent.com/eclipse/ditto/master/logo/ditto.svg?sanitize=true#gh-light-mode-only" alt="同上标志灯" height="250" style="max-width: 100%;"></a>
 </div>
-
-
-# Eclipse Ditto™
-
-[![Join the chat at https://gitter.im/eclipse/ditto](https://badges.gitter.im/eclipse/ditto.svg)](https://gitter.im/eclipse/ditto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://github.com/eclipse-ditto/ditto/workflows/build/badge.svg)](https://github.com/eclipse-ditto/ditto/actions?query=workflow%3Abuild)
-[![Maven Central](https://img.shields.io/maven-central/v/org.eclipse.ditto/ditto?label=maven)](https://search.maven.org/search?q=g:org.eclipse.ditto)
-[![Docker pulls](https://img.shields.io/docker/pulls/eclipse/ditto-things.svg)](https://hub.docker.com/search?q=eclipse%2Fditto&type=image)
-[![License](https://img.shields.io/badge/License-EPL%202.0-green.svg)](https://opensource.org/licenses/EPL-2.0)
-[![Lines of code](https://img.shields.io/badge/dynamic/xml.svg?label=Lines%20of%20code&url=https%3A%2F%2Fwww.openhub.net%2Fprojects%2Feclipse-ditto.xml%3Fapi_key%3D11ac3aa12a364fd87b461559a7eedcc53e18fb5a4cf1e43e02cb7a615f1f3d4f&query=%2Fresponse%2Fresult%2Fproject%2Fanalysis%2Ftotal_code_lines&colorB=lightgrey)](https://www.openhub.net/p/eclipse-ditto)
-
-[Eclipse Ditto](https://www.eclipse.dev/ditto/)™ is a technology in the IoT implementing a software pattern called “digital twins”.  
-A digital twin is a virtual, cloud based, representation of his real world counterpart (real world “Things”, e.g. devices like sensors, smart heating, connected cars, smart grids, EV charging stations, …).
-
-An ever growing list of [adopters](https://iot.eclipse.org/adopters/?#iot.ditto) makes use of Ditto as part of their IoT platforms - if you're as well using it, it would be super nice to show your [adoption here](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/).
-
-## Documentation
-
-Find the documentation on the project site: [https://www.eclipse.dev/ditto/](https://www.eclipse.dev/ditto/)
-
-## Eclipse Ditto™ explorer UI
-
-Find a live version of the latest explorer UI: [https://eclipse-ditto.github.io/ditto/](https://eclipse-ditto.github.io/ditto/?primaryEnvironmentName=ditto_sandbox)
-
-You should be able to work with your locally running default using the `local_ditto` environment - and you can add additional environments to also work with e.g. with a deployed installation of Ditto.
-
-## Star History
-
-<a href="https://star-history.com/#eclipse-ditto/ditto&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&type=Date" />
-  </picture>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eclipse Ditto™</font></font></h1><a id="user-content-eclipse-ditto" class="anchor" aria-label="永久链接：Eclipse Ditto™" href="#eclipse-ditto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://gitter.im/eclipse/ditto?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" rel="nofollow"><img src="https://camo.githubusercontent.com/591f1b99dc554b0d3c0aaba5cd9a0429d1477e56eb1c7f5b73263341cce88ada/68747470733a2f2f6261646765732e6769747465722e696d2f65636c697073652f646974746f2e737667" alt="加入聊天：https://gitter.im/eclipse/ditto" data-canonical-src="https://badges.gitter.im/eclipse/ditto.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/eclipse-ditto/ditto/actions?query=workflow%3Abuild"><img src="https://github.com/eclipse-ditto/ditto/workflows/build/badge.svg" alt="构建状态" style="max-width: 100%;"></a>
+<a href="https://search.maven.org/search?q=g:org.eclipse.ditto" rel="nofollow"><img src="https://camo.githubusercontent.com/d030da974d18be7b64c2fb6db584a6e07dff86e76622e9dfd96679b8d9507428/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e65636c697073652e646974746f2f646974746f3f6c6162656c3d6d6176656e" alt="梅文中心" data-canonical-src="https://img.shields.io/maven-central/v/org.eclipse.ditto/ditto?label=maven" style="max-width: 100%;"></a>
+<a href="https://hub.docker.com/search?q=eclipse%2Fditto&amp;type=image" rel="nofollow"><img src="https://camo.githubusercontent.com/4dddaed1c760f3df678aca107658f8f4cd001b2785cab6aa98f2c61e26c38bcf/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f65636c697073652f646974746f2d7468696e67732e737667" alt="Docker 拉取" data-canonical-src="https://img.shields.io/docker/pulls/eclipse/ditto-things.svg" style="max-width: 100%;"></a>
+<a href="https://opensource.org/licenses/EPL-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/ca5fb6152b45e16ca22950df7d9f8cb7a745fa79f209b13c46d80b91425be4ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d45504c253230322e302d677265656e2e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/License-EPL%202.0-green.svg" style="max-width: 100%;"></a>
+<a href="https://www.openhub.net/p/eclipse-ditto" rel="nofollow"><img src="https://camo.githubusercontent.com/ab7a9994f7364c3a1b19fec37c87dba69c5f146689f992f0dd940b706f9515e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f786d6c2e7376673f6c6162656c3d4c696e65732532306f66253230636f64652675726c3d68747470732533412532462532467777772e6f70656e6875622e6e657425324670726f6a6563747325324665636c697073652d646974746f2e786d6c2533466170695f6b6579253344313161633361613132613336346664383762343631353539613765656463633533653138666235613463663165343365303263623761363135663166336434662671756572793d253246726573706f6e7365253246726573756c7425324670726f6a656374253246616e616c79736973253246746f74616c5f636f64655f6c696e657326636f6c6f72423d6c6967687467726579" alt="代码行数" data-canonical-src="https://img.shields.io/badge/dynamic/xml.svg?label=Lines%20of%20code&amp;url=https%3A%2F%2Fwww.openhub.net%2Fprojects%2Feclipse-ditto.xml%3Fapi_key%3D11ac3aa12a364fd87b461559a7eedcc53e18fb5a4cf1e43e02cb7a615f1f3d4f&amp;query=%2Fresponse%2Fresult%2Fproject%2Fanalysis%2Ftotal_code_lines&amp;colorB=lightgrey" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.eclipse.dev/ditto/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eclipse Ditto</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ™ 是物联网中的一项技术，实现了一种称为“数字孪生”的软件模式。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+数字孪生是基于云的虚拟表示，代表现实世界的对应物（现实世界的“事物”，例如传感器、智能供暖、联网汽车、智能电网、电动汽车充电站等设备）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">越来越多的</font></font><a href="https://iot.eclipse.org/adopters/?#iot.ditto" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">采用者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Ditto 作为其 IoT 平台的一部分 - 如果您也在使用它，那么</font></font><a href="https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里展示您的采用情况</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将是非常好的。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在项目站点上查找文档： https: </font></font><a href="https://www.eclipse.dev/ditto/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//www.eclipse.dev/ditto/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eclipse Ditto™ 浏览器 UI</font></font></h2><a id="user-content-eclipse-ditto-explorer-ui" class="anchor" aria-label="永久链接：Eclipse Ditto™ 浏览器 UI" href="#eclipse-ditto-explorer-ui"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查找最新浏览器 UI 的实时版本：</font></font><a href="https://eclipse-ditto.github.io/ditto/?primaryEnvironmentName=ditto_sandbox" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https ://eclipse-ditto.github.io/ditto/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您应该能够使用本地运行的默认</font></font><code>local_ditto</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">环境 - 并且您可以添加其他环境来使用例如 Ditto 的部署安装。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">明星历史</font></font></h2><a id="user-content-star-history" class="anchor" aria-label="永久链接：明星历史" href="#star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a href="https://star-history.com/#eclipse-ditto/ditto&amp;Date" rel="nofollow">
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/748dd982f89c8925dacf8f3595272b12d5827d498b1fe7066e06e72f8e54517c/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d65636c697073652d646974746f2f646974746f26747970653d44617465267468656d653d6461726b" data-canonical-src="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&amp;type=Date&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/d87b2e723e3edaf40d5d40c01221ae53f26283fd36363cc12d101fb8e037413b/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d65636c697073652d646974746f2f646974746f26747970653d44617465" data-canonical-src="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&amp;type=Date">
+    <img alt="明星历史图" src="https://camo.githubusercontent.com/d87b2e723e3edaf40d5d40c01221ae53f26283fd36363cc12d101fb8e037413b/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d65636c697073652d646974746f2f646974746f26747970653d44617465" data-canonical-src="https://api.star-history.com/svg?repos=eclipse-ditto/ditto&amp;type=Date" style="visibility:visible;max-width:100%;">
+  </picture></themed-picture>
 </a>
-
-
-## Getting started
-
-In order to start up Ditto via *Docker Compose*, you'll need:
-* a running Docker daemon
-* Docker Compose installed
-* for a "single instance" setup on a local machine:
-  * at least 2 CPU cores which can be used by Docker
-  * at least 4 GB of RAM which can be used by Docker
-
-You also have other possibilities to run Ditto, please have a look [here](https://github.com/eclipse-ditto/ditto/tree/master/deployment) to explore them.
-
-### Start Ditto
-
-In order to start the latest built Docker images from Docker Hub, simply execute:
-
-```bash
-cd deployment/docker/
-docker-compose up -d
-```
-
-Check the logs after starting up:
-```bash
-docker-compose logs -f
-```
-
-Open following URL to get started: [http://localhost:8080](http://localhost:8080)<br/>
-Or have a look at the ["Hello World"](https://www.eclipse.dev/ditto/intro-hello-world.html)
-
-Additional [deployment options](deployment/) are also available, if Docker Compose is not what you want to use.
-
-## Development Guide
-
-If you plan to develop extensions in Ditto or to contribute some code, the following steps are of interest for you.
-
-> :warning: **If you just want to start/use Ditto**, please ingore the following sections! 
-
-### Build and start Ditto locally
-
-In order to build Ditto, you'll need:
-* JDK >= 17 
-* Apache Maven >= 3.8.x installed.
-* a running Docker daemon
-
-In order to first build Ditto and then start the built Docker images.
-
-#### 1. Build Ditto with Maven
-```bash
-mvn clean install
-```
-
-Skip tests:
-```bash
-mvn clean install -DskipTests
-```
-
-#### 2. Build local Ditto Docker snapshot images
-```bash
-./build-images.sh
-```
-If your infrastructure requires a proxy, its host and port can be set using the `-p` option like for example:
-```bash
-./build-images.sh -p 172.17.0.1:3128
-```
-Please note that the given host and port automatically applies for HTTP and HTTPS.
-
-#### 3. Start Ditto with local snapshot images
-```bash
-cd ../deployment/docker/
-# the "dev.env" file contains the SNAPSHOT number of Ditto, copy it to ".env" so that docker compose uses it:
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了通过</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker Compose</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动 Ditto ，您需要：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正在运行的 Docker 守护进程</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker Compose 已安装</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于本地计算机上的“单实例”设置：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">至少 2 个可供 Docker 使用的 CPU 核心</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 可以使用的至少 4 GB RAM</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以使用其他方式来运行 Ditto，请查看</font></font><a href="https://github.com/eclipse-ditto/ditto/tree/master/deployment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行探索。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始同上</font></font></h3><a id="user-content-start-ditto" class="anchor" aria-label="永久链接：开始同上" href="#start-ditto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了从 Docker Hub 启动最新构建的 Docker 镜像，只需执行：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> deployment/docker/
+docker-compose up -d</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd deployment/docker/
+docker-compose up -d" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动后查看日志：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker-compose logs -f</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker-compose logs -f" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开以下 URL 开始：</font></font><a href="http://localhost:8080" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8080</font></font></a><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+或者查看</font></font><a href="https://www.eclipse.dev/ditto/intro-hello-world.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“Hello World”</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想使用 Docker Compose，还可以使用</font><font style="vertical-align: inherit;">其他</font></font><a href="/eclipse-ditto/ditto/blob/master/deployment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部署选项。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发指南</font></font></h2><a id="user-content-development-guide" class="anchor" aria-label="永久链接：开发指南" href="#development-guide"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您计划在 Ditto 中开发扩展或贡献一些代码，那么您会对以下步骤感兴趣。</font></font></p>
+<blockquote>
+<p dir="auto"><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您只想启动/使用 Ditto</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，请忽略以下部分！</font></font></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在本地构建并启动 Ditto</font></font></h3><a id="user-content-build-and-start-ditto-locally" class="anchor" aria-label="永久链接：在本地构建并启动 Ditto" href="#build-and-start-ditto-locally"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了构建 Ditto，您需要：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JDK &gt;= 17</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache Maven &gt;= 3.8.x 安装。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正在运行的 Docker 守护进程</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先构建 Ditto，然后启动构建的 Docker 镜像。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. 使用 Maven 构建 Ditto</font></font></h4><a id="user-content-1-build-ditto-with-maven" class="anchor" aria-label="永久链接：1. 使用 Maven 构建 Ditto" href="#1-build-ditto-with-maven"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>mvn clean install</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mvn clean install" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跳过测试：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>mvn clean install -DskipTests</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mvn clean install -DskipTests" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2. 构建本地Ditto Docker快照镜像</font></font></h4><a id="user-content-2-build-local-ditto-docker-snapshot-images" class="anchor" aria-label="永久链接：2. 构建本地 Ditto Docker 快照镜像" href="#2-build-local-ditto-docker-snapshot-images"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>./build-images.sh</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="./build-images.sh" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的基础设施需要代理，则可以使用</font></font><code>-p</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下选项设置其主机和端口：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>./build-images.sh -p 172.17.0.1:3128</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="./build-images.sh -p 172.17.0.1:3128" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请注意，给定的主机和端口自动适用于 HTTP 和 HTTPS。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3. 使用本地快照图像启动 Ditto</font></font></h4><a id="user-content-3-start-ditto-with-local-snapshot-images" class="anchor" aria-label="永久链接：3. 使用本地快照图像启动 Ditto" href="#3-start-ditto-with-local-snapshot-images"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> ../deployment/docker/
+<span class="pl-c"><span class="pl-c">#</span> the "dev.env" file contains the SNAPSHOT number of Ditto, copy it to ".env" so that docker compose uses it:</span>
 cp dev.env .env
-docker-compose up -d
-```
-
-Check the logs after starting up:
-```bash
-docker-compose logs -f
-```
-
-You have now running:
-* a MongoDB as backing datastore of Ditto (not part of Ditto but started via Docker)
-* Ditto microservices:
-   * Policies
-   * Things
-   * Things-Search
-   * Gateway
-   * Connectivity
-* an nginx acting as a reverse proxy performing a simple "basic authentication" listening on port `8080`
-   * including some static HTTP + API documentation on [http://localhost:8080](http://localhost:8080)
+docker-compose up -d</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd ../deployment/docker/
+# the &quot;dev.env&quot; file contains the SNAPSHOT number of Ditto, copy it to &quot;.env&quot; so that docker compose uses it:
+cp dev.env .env
+docker-compose up -d" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动后查看日志：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker-compose logs -f</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker-compose logs -f" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您现在正在运行：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MongoDB 作为 Ditto 的支持数据存储（不是 Ditto 的一部分，但通过 Docker 启动）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微服务同上：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">政策</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事物</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事物搜索</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网关</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接性</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nginx 充当反向代理，在端口上执行简单的“基本身份验证”侦听</font></font><code>8080</code>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><a href="http://localhost:8080" rel="nofollow"><font style="vertical-align: inherit;">包括http://localhost:8080</font></a><font style="vertical-align: inherit;">上的一些静态 HTTP + API 文档</font></font><a href="http://localhost:8080" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+</ul>
+</li>
+</ul>
+</article></div>
